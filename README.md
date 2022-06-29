@@ -1,6 +1,6 @@
 ![Papel_github](https://user-images.githubusercontent.com/106843393/173702908-baccc6e9-cc06-4429-b0d7-35533044bcb1.png)
 <div align="center">
-  <h2> 😄ABOUT ME 8=D😄</h2>
+  <h2> 😄ABOUT ME😄</h2>
 </div>
 <div align="center">
 Hi, my name is Guilherme Dores dos Santos I am 18 years old and I live in Brazil. 
